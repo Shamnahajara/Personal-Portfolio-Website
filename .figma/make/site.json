@@ -1,0 +1,10 @@
+{
+  "description": "A polished personal portfolio showcasing a full-stack developer's skills, projects, and personality to engage recruiters and freelance clients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
